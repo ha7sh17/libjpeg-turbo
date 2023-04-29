@@ -1,19 +1,30 @@
+[![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)
+
 # Intro
 
 이미지, 비디오 프로세싱의 기초가 되는 JPEG 기술에 대해 소개하기 위하여 작성한 자료입니다.  
 
 아이디어는 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)에서 비롯되었습니다.  
-[digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 는 비디오 기술에 대해 누구나 알기 쉽게 친절한 소개 자료로 저 스스로도 많은 도움을 받았습니다.  
-하지만 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 자료에는 비디오 프로세싱의 근간이 되는 이미지 프로세싱에 대한 설명이 없는 아쉬움을 본 자료로 채울 수 있었으면 좋겠습니다.
+[digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 는 비디오 기술에 대해 누구나 알기 쉽게 친절하게 작성된 자료로 저 스스로도 이 자료로부터 많은 도움을 받았습니다.  
+하지만 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 자료에는 비디오 프로세싱의 근간이 되는 이미지 프로세싱에 대한 설명이 없는 아쉬움이 있어, 본 자료가 그 아쉬움을 조금이나마 채울 수 있었으면 합니다.
 
-JPEG은 아주 오래된 기술이라 책, 블로그 등 이미 잘 설명해놓은 자료가 많지만, JPEG 인코더, 디코더의 코드 레벨까지 완벽히 이해하고자하는 제 개인적인 필요에 의하여 본 자료에서는 코드와 이론을 매칭하여 자료를 작성하고자 하였습니다.  
+JPEG은 아주 오래된 기술이라 책, 블로그 등 이미 잘 설명해놓은 자료가 많지만,  
+JPEG 기술을 코드 레벨까지 완벽히 이해하고자하는 제 개인적인 필요에 의하여 본 자료를 작성하였습니다.
+
+본 자료는 2023년 현재 가장 범용적으로 사용되고 있는 JPEG 인코더인 [mozjpeg](https://github.com/mozilla/mozjpeg) 의 포크 원본인 libjpeg-turbo를 기준으로 작성되었습니다.  
+본 자료에서는 JPEG 이론과 해당 이론에 해당하는 libjpeg-turbo의 코드 설명의 Pair형태로 구성되어 있습니다.
 
 # 색인
 
-# ㄴㅇㄴ
 
 
-https://github.com/ha7sh17/libjpeg-turbo/blob/857898738b6f27fddf30983bc1b31731c753a1ff/cdjpeg.c#L14-L22
+# 인코딩
+
+
+# 디코딩
+
+
+
 
 
 
