@@ -1,14 +1,19 @@
 # Intro
 
-이미지, 비디오 프로세싱의 기초가 되는 JPEG 기술에 대해 소개하고 위하여 작성한 자료입니다.  
+이미지, 비디오 프로세싱의 기초가 되는 JPEG 기술에 대해 소개하기 위하여 작성한 자료입니다.  
 
-아이디어는 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)에서 비롯되었습니다.
+아이디어는 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)에서 비롯되었습니다.  
 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 는 비디오 기술에 대해 누구나 알기 쉽게 친절한 소개 자료로 저 스스로도 많은 도움을 받았습니다.  
 하지만 [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) 자료에는 비디오 프로세싱의 근간이 되는 이미지 프로세싱에 대한 설명이 없는 아쉬움을 본 자료로 채울 수 있었으면 좋겠습니다.
 
 JPEG은 아주 오래된 기술이라 책, 블로그 등 이미 잘 설명해놓은 자료가 많지만, JPEG 인코더, 디코더의 코드 레벨까지 완벽히 이해하고자하는 제 개인적인 필요에 의하여 본 자료에서는 코드와 이론을 매칭하여 자료를 작성하고자 하였습니다.  
 
+# 색인
 
+# ㄴㅇㄴ
+
+
+https://github.com/ha7sh17/libjpeg-turbo/blob/857898738b6f27fddf30983bc1b31731c753a1ff/cdjpeg.c#L14-L22
 
 
 
